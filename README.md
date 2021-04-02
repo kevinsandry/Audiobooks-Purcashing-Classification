@@ -4,8 +4,6 @@ Build classification model to classify customer purchasing on audiobooks using T
 
 ## Description for all columns:
 
-Description:
-
 **ID:** User ID <br>
 **Book length (mins) overall:** The sum of the lengths of purchased books <br>
 **Book length (mins) avg:** The sum of the length divided by the number of purchases<br>
